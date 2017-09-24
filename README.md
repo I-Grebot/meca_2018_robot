@@ -1,2 +1,1 @@
-# meca_2018_robot
-2018  mechanical design
+Our 2018 robot's mechanical design
